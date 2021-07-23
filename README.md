@@ -1,6 +1,6 @@
 # Original project:
 
-An AI (Deep Learning Convolutional Neural Network (CNN) using PyTorch) that can recognize and analyze images.
+### An AI (Deep Learning Convolutional Neural Network (CNN) using PyTorch) that can recognize and analyze images.
 
 ****************************************
 All submitted files and their content:
